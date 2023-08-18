@@ -8,7 +8,7 @@ import lombok.Getter;
 public enum TransactionStatusEnum {
 
     COMPLETED("completed"),
-    CANCELLED("cancelled");
+    CANCELED("canceled");
 
     private final String status;
 
